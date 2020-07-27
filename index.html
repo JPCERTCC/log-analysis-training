@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Log Analysis Training</title>
+  <link rel="stylesheet" href="css/uikit.docs.min.css">
+</head>
+
+<body>
+
+  <div class="uk-container uk-container-center uk-margin-top uk-margin-large-bottom">
+
+    <div class="uk-grid" data-uk-grid-margin>
+      <div class="uk-width-1-1">
+        <h1 class="uk-heading-large">Log Analysis Training</h1>
+        <p class="uk-text-large">このコンテンツはセキュリティインシデントを調査する際に、Windowsイベントログ (セキュリティログおよびSysmonログ) やプロキシログを活用する方法をトレーニング形式で学ぶことができるコンテンツです。</p>
+      </div>
+    </div>
+
+    <div class="uk-grid" data-uk-grid-margin>
+      <div class="uk-width-medium-3-4">
+
+        <h2 id="about">コンテンツの概要</h2>
+
+        <p>このコンテンツは、<code>Material</code>および<code>Hands-on</code>から構成されています。各コンテンツは以下の通りです。</p>
+
+        <div class="uk-overflow-container">
+          <table class="uk-table uk-text-nowrap">
+            <thead>
+              <tr>
+                <th>コンテンツ</th>
+                <th>説明</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td><code>Material</code></td>
+                <td>ハンズオン資料 (PDF)</td>
+              </tr>
+              <tr>
+                <td><code>Hands-on</code></td>
+                <td>ハンズオンに使用するログ一式</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+
+        <h3 id="takeaway">このトレーニングから得られる知識</h3>
+
+        <p>このコンテンツは、以下の知識を得ることができます。</p>
+        <ul class="uk-list uk-list uk-list-striped">
+          <li>攻撃者の典型的なネットワーク侵入の手口</li>
+          <li>侵入の痕跡を見つけるために必要なWindowsのログ設定</li>
+          <li>Windowsログの調査手順</li>
+          <li>ログ調査のポイント</li>
+          <li>Active Directoryログから攻撃の痕跡を分析する手法の基礎</li>
+        </ul>
+
+        <h3 id="users">対象者</h3>
+
+        <p>このコンテンツは、以下のようなインシデント調査、分析に関わる初級者を対象としています。</p>
+        <ul class="uk-list uk-list uk-list-striped">
+          <li>現場のシステム管理者</li>
+          <li>組織のセキュリティ窓口担当者</li>
+          <li>インシデント分析に関心のある方</li>
+        </ul>
+
+        <h2 id="details">トレーニングの詳細</h2>
+
+        <div class="uk-overflow-container">
+          <table class="uk-table uk-text-nowrap">
+            <thead>
+              <tr>
+                <th>内容</th>
+                <th>説明</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>座学</td>
+                <td>
+                  <ul class="uk-list">
+                    <li>標的型攻撃に関する説明</li>
+                    <li>侵入後のネットワーク内部での攻撃パターンについて</li>
+                    <li>「インシデント調査のための攻撃ツール等の実行痕跡調査に関する報告書」の解説</li>
+                  </ul>
+                </td>
+              </tr>
+              <tr>
+                <td>ハンズオン</td>
+                <td>
+                  <ul class="uk-list">
+                    <li>ツールを使用したイベントログの抽出</li>
+                    <li>Windowsクライアントのイベントログの調査</li>
+                    <li>Proxyログの調査</li>
+                    <li>侵入端末の特定</li>
+                    <li>Active Directoryログの調査</li>
+                  </ul>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+
+        <h2 id="download">コンテンツのダウンロード</h2>
+
+        <p>コンテンツのダウンロードは以下から行ってください。</p>
+
+        <p><a href="https://github.com/JPCERTCC/log-analysis-training" target="_blank">https://github.com/JPCERTCC/log-analysis-training</a></p>
+
+
+        <hr class="uk-grid-divider">
+
+        <h2 id="note">注意</h2>
+
+        <p>このコンテンツは、Internet Week 2016、2017、2018、2019 にて実施したトレーニング資料を編集したものです。</p>
+
+        <p>このコンテンツには、一部サポートが終了しているOSが使用されていますが、基本的な考え方は最新のOSと大きく違いはありません。</p>
+
+        <p>本コンテンツに記載されている情報により生じるいかなる損失または損害に対して、JPCERT/CC は責任を負うものではありません。</p>
+
+        <div class="uk-width-4-5@m uk-margin-auto uk-text-small uk-text-center">
+          <p>Copyright © 1996-2020 JPCERT/CC All Rights Reserved.</p>
+        </div>
+
+      </div>
+
+      <div class="uk-width-medium-1-4">
+
+        <div class="uk-panel uk-panel-box" data-uk-sticky="{top:35}">
+          <ul class="uk-nav uk-nav-side" data-uk-scrollspy-nav="{closest:'li', smoothscroll:true}">
+            <li class="uk-nav-header">目次</li>
+            <li class=""><a href="#about">コンテンツ概要</a></li>
+            <li class=""><a href="#takeaway">得られる知識</a></li>
+            <li class=""><a href="#users">対象者</a></li>
+            <li class=""><a href="#details">トレーニング詳細</a></li>
+            <li class=""><a href="#download">ダウンロード</a></li>
+            <li class="uk-nav-divider"></li>
+            <li class=""><a href="#note">注意</a></li>
+          </ul>
+        </div>
+
+      </div>
+    </div>
+  </div>
+
+</body>
+
+</html>

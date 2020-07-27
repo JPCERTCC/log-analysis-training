@@ -1,0 +1,381 @@
+﻿レベル,日付と時刻,ソース,イベント ID,タスクのカテゴリ
+情報,2019/11/07 16:03:24,PowerShell,403,エンジンのライフサイクル,"エンジンの状態が Available から Stopped に変更されました。
+
+詳細: 
+	NewEngineState=Stopped
+	PreviousEngineState=Available
+
+	SequenceNumber=10
+
+	HostName=ConsoleHost
+	HostVersion=2.0
+	HostId=124cc917-defb-4045-892a-183cdcf9e19d
+	EngineVersion=2.0
+	RunspaceId=506d14fb-86f7-4920-96b6-30f1a96f8f29
+	PipelineId=
+	CommandName=
+	CommandType=
+	ScriptName=
+	CommandPath=
+	CommandLine="
+情報,2019/11/07 16:03:24,PowerShell,400,エンジンのライフサイクル,"エンジンの状態が None から Available に変更されました。
+
+詳細: 
+	NewEngineState=Available
+	PreviousEngineState=None
+
+	SequenceNumber=9
+
+	HostName=ConsoleHost
+	HostVersion=2.0
+	HostId=124cc917-defb-4045-892a-183cdcf9e19d
+	EngineVersion=2.0
+	RunspaceId=506d14fb-86f7-4920-96b6-30f1a96f8f29
+	PipelineId=
+	CommandName=
+	CommandType=
+	ScriptName=
+	CommandPath=
+	CommandLine="
+情報,2019/11/07 16:03:24,PowerShell,600,プロバイダーのライフサイクル,"プロバイダー ""Certificate"" は Startedです。
+
+詳細: 
+	ProviderName=Certificate
+	NewProviderState=Started
+
+	SequenceNumber=8
+
+	HostName=ConsoleHost
+	HostVersion=2.0
+	HostId=124cc917-defb-4045-892a-183cdcf9e19d
+	EngineVersion=
+	RunspaceId=
+	PipelineId=
+	CommandName=
+	CommandType=
+	ScriptName=
+	CommandPath=
+	CommandLine="
+情報,2019/11/07 16:03:24,PowerShell,600,プロバイダーのライフサイクル,"プロバイダー ""Variable"" は Startedです。
+
+詳細: 
+	ProviderName=Variable
+	NewProviderState=Started
+
+	SequenceNumber=7
+
+	HostName=ConsoleHost
+	HostVersion=2.0
+	HostId=124cc917-defb-4045-892a-183cdcf9e19d
+	EngineVersion=
+	RunspaceId=
+	PipelineId=
+	CommandName=
+	CommandType=
+	ScriptName=
+	CommandPath=
+	CommandLine="
+情報,2019/11/07 16:03:24,PowerShell,600,プロバイダーのライフサイクル,"プロバイダー ""Registry"" は Startedです。
+
+詳細: 
+	ProviderName=Registry
+	NewProviderState=Started
+
+	SequenceNumber=6
+
+	HostName=ConsoleHost
+	HostVersion=2.0
+	HostId=124cc917-defb-4045-892a-183cdcf9e19d
+	EngineVersion=
+	RunspaceId=
+	PipelineId=
+	CommandName=
+	CommandType=
+	ScriptName=
+	CommandPath=
+	CommandLine="
+情報,2019/11/07 16:03:24,PowerShell,600,プロバイダーのライフサイクル,"プロバイダー ""Function"" は Startedです。
+
+詳細: 
+	ProviderName=Function
+	NewProviderState=Started
+
+	SequenceNumber=5
+
+	HostName=ConsoleHost
+	HostVersion=2.0
+	HostId=124cc917-defb-4045-892a-183cdcf9e19d
+	EngineVersion=
+	RunspaceId=
+	PipelineId=
+	CommandName=
+	CommandType=
+	ScriptName=
+	CommandPath=
+	CommandLine="
+情報,2019/11/07 16:03:24,PowerShell,600,プロバイダーのライフサイクル,"プロバイダー ""FileSystem"" は Startedです。
+
+詳細: 
+	ProviderName=FileSystem
+	NewProviderState=Started
+
+	SequenceNumber=4
+
+	HostName=ConsoleHost
+	HostVersion=2.0
+	HostId=124cc917-defb-4045-892a-183cdcf9e19d
+	EngineVersion=
+	RunspaceId=
+	PipelineId=
+	CommandName=
+	CommandType=
+	ScriptName=
+	CommandPath=
+	CommandLine="
+情報,2019/11/07 16:03:24,PowerShell,600,プロバイダーのライフサイクル,"プロバイダー ""Environment"" は Startedです。
+
+詳細: 
+	ProviderName=Environment
+	NewProviderState=Started
+
+	SequenceNumber=3
+
+	HostName=ConsoleHost
+	HostVersion=2.0
+	HostId=124cc917-defb-4045-892a-183cdcf9e19d
+	EngineVersion=
+	RunspaceId=
+	PipelineId=
+	CommandName=
+	CommandType=
+	ScriptName=
+	CommandPath=
+	CommandLine="
+情報,2019/11/07 16:03:24,PowerShell,600,プロバイダーのライフサイクル,"プロバイダー ""Alias"" は Startedです。
+
+詳細: 
+	ProviderName=Alias
+	NewProviderState=Started
+
+	SequenceNumber=2
+
+	HostName=ConsoleHost
+	HostVersion=2.0
+	HostId=124cc917-defb-4045-892a-183cdcf9e19d
+	EngineVersion=
+	RunspaceId=
+	PipelineId=
+	CommandName=
+	CommandType=
+	ScriptName=
+	CommandPath=
+	CommandLine="
+情報,2019/11/07 16:03:24,PowerShell,600,プロバイダーのライフサイクル,"プロバイダー ""WSMan"" は Startedです。
+
+詳細: 
+	ProviderName=WSMan
+	NewProviderState=Started
+
+	SequenceNumber=1
+
+	HostName=ConsoleHost
+	HostVersion=2.0
+	HostId=124cc917-defb-4045-892a-183cdcf9e19d
+	EngineVersion=
+	RunspaceId=
+	PipelineId=
+	CommandName=
+	CommandType=
+	ScriptName=
+	CommandPath=
+	CommandLine="
+情報,2019/11/07 15:57:04,PowerShell,403,エンジンのライフサイクル,"エンジンの状態が Available から Stopped に変更されました。
+
+詳細: 
+	NewEngineState=Stopped
+	PreviousEngineState=Available
+
+	SequenceNumber=10
+
+	HostName=ConsoleHost
+	HostVersion=2.0
+	HostId=35f0e752-caa3-4241-93b5-5341b7139aa8
+	EngineVersion=2.0
+	RunspaceId=e85dc877-861c-4784-b8e0-5016145a29b1
+	PipelineId=
+	CommandName=
+	CommandType=
+	ScriptName=
+	CommandPath=
+	CommandLine="
+情報,2019/11/07 15:57:02,PowerShell,400,エンジンのライフサイクル,"エンジンの状態が None から Available に変更されました。
+
+詳細: 
+	NewEngineState=Available
+	PreviousEngineState=None
+
+	SequenceNumber=9
+
+	HostName=ConsoleHost
+	HostVersion=2.0
+	HostId=35f0e752-caa3-4241-93b5-5341b7139aa8
+	EngineVersion=2.0
+	RunspaceId=e85dc877-861c-4784-b8e0-5016145a29b1
+	PipelineId=
+	CommandName=
+	CommandType=
+	ScriptName=
+	CommandPath=
+	CommandLine="
+情報,2019/11/07 15:57:02,PowerShell,600,プロバイダーのライフサイクル,"プロバイダー ""Certificate"" は Startedです。
+
+詳細: 
+	ProviderName=Certificate
+	NewProviderState=Started
+
+	SequenceNumber=8
+
+	HostName=ConsoleHost
+	HostVersion=2.0
+	HostId=35f0e752-caa3-4241-93b5-5341b7139aa8
+	EngineVersion=
+	RunspaceId=
+	PipelineId=
+	CommandName=
+	CommandType=
+	ScriptName=
+	CommandPath=
+	CommandLine="
+情報,2019/11/07 15:57:02,PowerShell,600,プロバイダーのライフサイクル,"プロバイダー ""Variable"" は Startedです。
+
+詳細: 
+	ProviderName=Variable
+	NewProviderState=Started
+
+	SequenceNumber=7
+
+	HostName=ConsoleHost
+	HostVersion=2.0
+	HostId=35f0e752-caa3-4241-93b5-5341b7139aa8
+	EngineVersion=
+	RunspaceId=
+	PipelineId=
+	CommandName=
+	CommandType=
+	ScriptName=
+	CommandPath=
+	CommandLine="
+情報,2019/11/07 15:57:02,PowerShell,600,プロバイダーのライフサイクル,"プロバイダー ""Registry"" は Startedです。
+
+詳細: 
+	ProviderName=Registry
+	NewProviderState=Started
+
+	SequenceNumber=6
+
+	HostName=ConsoleHost
+	HostVersion=2.0
+	HostId=35f0e752-caa3-4241-93b5-5341b7139aa8
+	EngineVersion=
+	RunspaceId=
+	PipelineId=
+	CommandName=
+	CommandType=
+	ScriptName=
+	CommandPath=
+	CommandLine="
+情報,2019/11/07 15:57:02,PowerShell,600,プロバイダーのライフサイクル,"プロバイダー ""Function"" は Startedです。
+
+詳細: 
+	ProviderName=Function
+	NewProviderState=Started
+
+	SequenceNumber=5
+
+	HostName=ConsoleHost
+	HostVersion=2.0
+	HostId=35f0e752-caa3-4241-93b5-5341b7139aa8
+	EngineVersion=
+	RunspaceId=
+	PipelineId=
+	CommandName=
+	CommandType=
+	ScriptName=
+	CommandPath=
+	CommandLine="
+情報,2019/11/07 15:57:02,PowerShell,600,プロバイダーのライフサイクル,"プロバイダー ""FileSystem"" は Startedです。
+
+詳細: 
+	ProviderName=FileSystem
+	NewProviderState=Started
+
+	SequenceNumber=4
+
+	HostName=ConsoleHost
+	HostVersion=2.0
+	HostId=35f0e752-caa3-4241-93b5-5341b7139aa8
+	EngineVersion=
+	RunspaceId=
+	PipelineId=
+	CommandName=
+	CommandType=
+	ScriptName=
+	CommandPath=
+	CommandLine="
+情報,2019/11/07 15:57:02,PowerShell,600,プロバイダーのライフサイクル,"プロバイダー ""Environment"" は Startedです。
+
+詳細: 
+	ProviderName=Environment
+	NewProviderState=Started
+
+	SequenceNumber=3
+
+	HostName=ConsoleHost
+	HostVersion=2.0
+	HostId=35f0e752-caa3-4241-93b5-5341b7139aa8
+	EngineVersion=
+	RunspaceId=
+	PipelineId=
+	CommandName=
+	CommandType=
+	ScriptName=
+	CommandPath=
+	CommandLine="
+情報,2019/11/07 15:57:02,PowerShell,600,プロバイダーのライフサイクル,"プロバイダー ""Alias"" は Startedです。
+
+詳細: 
+	ProviderName=Alias
+	NewProviderState=Started
+
+	SequenceNumber=2
+
+	HostName=ConsoleHost
+	HostVersion=2.0
+	HostId=35f0e752-caa3-4241-93b5-5341b7139aa8
+	EngineVersion=
+	RunspaceId=
+	PipelineId=
+	CommandName=
+	CommandType=
+	ScriptName=
+	CommandPath=
+	CommandLine="
+情報,2019/11/07 15:57:02,PowerShell,600,プロバイダーのライフサイクル,"プロバイダー ""WSMan"" は Startedです。
+
+詳細: 
+	ProviderName=WSMan
+	NewProviderState=Started
+
+	SequenceNumber=1
+
+	HostName=ConsoleHost
+	HostVersion=2.0
+	HostId=35f0e752-caa3-4241-93b5-5341b7139aa8
+	EngineVersion=
+	RunspaceId=
+	PipelineId=
+	CommandName=
+	CommandType=
+	ScriptName=
+	CommandPath=
+	CommandLine="
